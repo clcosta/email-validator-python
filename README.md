@@ -3,7 +3,6 @@
 
 Em qualquer site que você tentar criar uma conta hoje em dia e bem provavel se deparar com uma _validação de e-mail_, que geralmente utiliza um código gerado de forma aleatoria para concluir a validação. Neste repositorio eu refiz está validação com e-mail, em que este e-mail é realmente enviado, e utilizando de uma das bibliotecas de interface grafica do Python simulei um possivel caso real deixando pro usuario final simples e possivel de entender.
 ## Redes Sociais
-* [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
